@@ -72,7 +72,7 @@ function game(){
     fill(255, 255, 255);
     textSize(40);
     textAlign(CENTER);
-    text("Presiona cualquier flecha del teclado para iniciar el juego", gameConfig.screenX/2, gameConfig.screenY/2);
+    text("Haz click en jugar para iniciar el juego", gameConfig.screenX/2, gameConfig.screenY/2);
     textSize(40);
 
     stroke(255);
